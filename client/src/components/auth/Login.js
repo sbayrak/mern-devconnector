@@ -19,12 +19,13 @@ const Login = ({ login, isAuthenticated }) => {
     e.preventDefault();
 
     login(email, password);
+    console.log(formData);
   };
 
   // Redirect if logged in
-  if (isAuthenticated) {
-    return <Redirect to='/dashboard'></Redirect>;
-  }
+  // if (isAuthenticated) {
+  //   return <Redirect to='/dashboard'></Redirect>;
+  // }
 
   return (
     <Fragment>

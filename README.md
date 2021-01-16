@@ -1,5 +1,7 @@
 # mern-devconnector
 
-Huge thanks to Brad Traversy for this great project and special thanks to Will Adams for replying our questions non-stop.
+Medium size social media for developers, where you can
+                      create a profile, education information, make posts,
+                      comment and like functionality
 
 https://devconnector52.herokuapp.com/

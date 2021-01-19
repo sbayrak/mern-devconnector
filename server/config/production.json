@@ -1,6 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://suat1:suat1@devconnector.skvbe.mongodb.net/devconnector?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "481252c7bc6d72929a5e",
-  "githubSecret": "d89892cddec65c81ab96820b824ee3a26ad3a3f9"
+  "mongoURI": "YOUR_MONGODB_URI",
+  "jwtSecret": "YOUR_JWT_SECRET"
+  "githubClientId": "YOUR_GITHUB_ID",
+  "githubSecret": "YOUR_GITHUB_ID"
 }

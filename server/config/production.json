@@ -1,6 +1,6 @@
 {
   "mongoURI": "YOUR_MONGODB_URI",
-  "jwtSecret": "YOUR_JWT_SECRET"
+  "jwtSecret": "YOUR_JWT_SECRET",
   "githubClientId": "YOUR_GITHUB_ID",
   "githubSecret": "YOUR_GITHUB_ID"
 }
